@@ -1,1 +1,1 @@
-# Base-De-Datos-UCP-2025
+# Base-De-Datos-2025
